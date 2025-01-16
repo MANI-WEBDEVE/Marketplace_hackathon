@@ -31,7 +31,7 @@
 - Shipment tracking API
 
 ## 2. System Architecture  
-![System Architecture](../documentation/Daigram.png)  
+![System Architecture](../Documentation/Daigram.png)  
 
 ```
 graph TD
