@@ -2,7 +2,7 @@
 
 This project is a modern e-commerce web application built with Next.js and Sanity CMS, offering a seamless shopping experience with dynamic product management.
 
-![Demo Screenshot](/public/image/demo-shot-1.jpg)
+<!-- ![Demo Screenshot](/public/image/demo-shot-1.jpg) -->
 
 ## Repository Structure
 
@@ -27,7 +27,7 @@ To install the project dependencies, run:
 ```bash
 npm install
 ```
-![Demo Screenshot](/public/image/demo-shot-2.jpg)
+<!-- ![Demo Screenshot](/public/image/demo-shot-2.jpg) -->
 ### Getting Started
 
 1. Create a `.env.local` file in the root directory with the following variables:
@@ -50,7 +50,7 @@ This will start the Next.js development server and the Sanity Studio. You can ac
 
 ## API Routes and Data Fetching
 
-![Demo Screenshot](/public/image/demo-shot-3.jpg)
+<!-- ![Demo Screenshot](/public/image/demo-shot-3.jpg) -->
 
 The application includes several API routes for fetching product data:
 
